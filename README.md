@@ -1,5 +1,5 @@
 # slovamatcher
-Slovamatcher is a program to generate a lot of words using slova and find out what the probability for generating a certain world is.
+Slovamatcher is a program to generate a lot of words using [slova](https://github.com/RaydanOMGr/slova) and find out what the probability for generating a certain world is.
 
 ## Config
 ```json
