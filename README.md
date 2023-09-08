@@ -17,4 +17,4 @@ The config has 4 fields:
 - syllables: The amount of syllables that a word has for slova to know how to generate it. Some words might be impossible to generate due to how slova works, an example is "fry"
 
  ## License
- -
+ Slovamatcher is licensed under the GNU General Public License v2.0
