@@ -1,0 +1,6 @@
+{
+    "threads": 8,
+    "wordsPerThread": 500000, 
+    "wordSearched": "happy",
+    "syllables": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "slovamatcher",
+  "version": "1.0.0",
+  "description": "Slovamatcher is a program to generate a lot of words using slova and find out what the probability for generating a certain world is.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slova": "^2.2.2"
+  }
+}
